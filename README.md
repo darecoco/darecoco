@@ -1,4 +1,4 @@
-<h1>Hello I'm Darecoco</h1>
+<h1>❄️Hello I'm Darecoco❄️</h1>
 <div align=left>
   <p>I am a student learning to code</p>
   <p>Well, if you think my nickname is difficult in pronounce, please call me 'Welly'<p>
@@ -15,4 +15,9 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
+</div>
+<br><hr>
+<div align=center>
+<a href="https://github-readme-stats.vercel.app/api?username=darecoco&show_icons=true"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdarecoco%2Fdarecoco.git&count_bg=%2379C83D&title_bg=%23646464&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
