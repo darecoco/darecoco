@@ -18,6 +18,7 @@
 </div>
 <br><hr>
 <div align=center>
-![darecoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=darecoco&show_icons=true&theme=midnight-purple)
+<p><img src="https://github-readme-stats.vercel.app/api?username=darecoco&amp;show_icons=true&amp;theme=midnight-purple" alt="Anurag&#39;s GitHub stats"></p>
+<hr>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdarecoco%2Fdarecoco.git&count_bg=%2379C83D&title_bg=%23646464&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
