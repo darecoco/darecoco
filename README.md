@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
 </div>
 <br><hr>
-<div aline="center" style="display: inline-block;">  
+<div style="display : inline-block; margin: 0 auto;">  
   <img src="https://github-readme-stats.vercel.app/api?username=darecoco&amp;show_icons=true&amp;theme=midnight-purple" alt="Anurag&#39;s GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darecoco&amp;layout=compact&amp;theme=midnight-purple" alt="Top Langs">
 </div>
