@@ -17,8 +17,11 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
 </div>
 <br><hr>
-<div align=center>
-<p><img src="https://github-readme-stats.vercel.app/api?username=darecoco&amp;show_icons=true&amp;theme=midnight-purple" alt="Anurag&#39;s GitHub stats"></p>
+<div aline="center" style="display: inline-block;">  
+  <img src="https://github-readme-stats.vercel.app/api?username=darecoco&amp;show_icons=true&amp;theme=midnight-purple" alt="Anurag&#39;s GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darecoco&amp;layout=compact&amp;theme=midnight-purple" alt="Top Langs">
+</div>
 <hr>
+<div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdarecoco%2Fdarecoco.git&count_bg=%2379C83D&title_bg=%23646464&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
