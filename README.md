@@ -1,7 +1,7 @@
-<h1>❄️Hello I'm Darecoco❄️</h1>
+<h1>❄️Hello I'm Jiin Lee❄️</h1>
 <div align=left>
   <p>I am a student learning to code</p>
-  <p>Well, if you think my nickname is difficult in pronounce, please call me 'Welly'<p>
+  <p>Well, if you think my name is difficult in pronounce, please call me 'Welly'<p>
 </div>
 <br>
 <h2>What I Am Learning</h2>
