@@ -1,9 +1,12 @@
-<h1>❄️Hello I'm Jiin Lee❄️</h1>
+<h1>❄️안녕하시오리까, 이지인 이옵니다.❄️ | ❄️Hello I'm Jin Lee❄️</h1>
 <div align=left>
-  <p><del>I am a student learning to code</del></p>
-  <p>Hello! I’ve been working as a developer for the past year.</p>
-  <p>I'm taking a step back to explore new ideas and find balance.</p>
-  <p>Well, if you think my name is difficult in pronounce, please call me 'Welly'<p>
+  <p>이제 학생신분은 아닙니다. 
+    <br><del>I am a student learning to code</del></p>
+  <p>안녕하세요! 저는 1년간 개발자로 일했습니다!
+  <br>Hello! I’ve been working as a developer for the past year.</p>
+  <p>지금은 잠시 쉬면서, 해보고 싶은 일을 해보고 있어요.
+  <br>I'm taking a step back to explore new ideas and find balance.</p>
+  <p>개발에서 완전 손 놓은건 아니에요 ㅎㅎ</p>
 </div>
 <br>
 <h2>What I Am Using</h2>
